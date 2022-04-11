@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  5 12:04:31 2022
 
-@author: uSer
+@author: Anil Pudasaini 076MSICE003
 """
 from scipy import fftpack
 import numpy as np
